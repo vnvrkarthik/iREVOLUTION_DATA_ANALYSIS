@@ -1,0 +1,16 @@
+DASHBOARD URL's:
+
+Exclusive summary: https://public.tableau.com/app/profile/vnvr.karthik/viz/ProjectFileSmartBridge/EXCLUSIVESUMMARYDASHBOARD?publish=yes
+
+Product Insights : https://public.tableau.com/app/profile/vnvr.karthik/viz/ProjectFileSmartBridge/ProductInsightsDashboard?publish=yes
+
+Market Share : https://public.tableau.com/app/profile/vnvr.karthik/viz/ProjectFileSmartBridge/MarketShareDashboard?publish=yes
+
+Sales and Revenue Trends : https://public.tableau.com/app/profile/vnvr.karthik/viz/ProjectFileSmartBridge/SalesRevenueTrendsDashboard?publish=yes
+
+
+STORIES:
+
+Market Power : https://public.tableau.com/app/profile/vnvr.karthik/viz/ProjectFileSmartBridge/MarketPowerStory?publish=yes
+
+Cracking the Market Story : https://public.tableau.com/app/profile/vnvr.karthik/viz/ProjectFileSmartBridge/CrackingtheMarketStory?publish=yes
